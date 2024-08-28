@@ -1,0 +1,6 @@
+@BVC_Course_Backend_B_HostAddress = http://localhost:5184
+
+GET {{BVC_Course_Backend_B_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

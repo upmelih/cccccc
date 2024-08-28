@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melih\\OneDrive\\Desktop\\New folder\\BVC-Course-Backend-B-melih\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3932ECFF-66C7-4048-AD3E-38D63CE56386}|BVC-Course-Backend-B\\BVC-Course-Backend-B.csproj|c:\\users\\melih\\onedrive\\desktop\\new folder\\bvc-course-backend-b-melih\\bvc-course-backend-b\\bvc-course-backend-b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3932ECFF-66C7-4048-AD3E-38D63CE56386}|BVC-Course-Backend-B\\BVC-Course-Backend-B.csproj|solutionrelative:bvc-course-backend-b\\bvc-course-backend-b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 612,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BVC-Course-Backend-B.csproj",
+              "DocumentMoniker": "C:\\Users\\melih\\OneDrive\\Desktop\\New folder\\BVC-Course-Backend-B-melih\\BVC-Course-Backend-B\\BVC-Course-Backend-B.csproj",
+              "RelativeDocumentMoniker": "BVC-Course-Backend-B\\BVC-Course-Backend-B.csproj",
+              "ToolTip": "C:\\Users\\melih\\OneDrive\\Desktop\\New folder\\BVC-Course-Backend-B-melih\\BVC-Course-Backend-B\\BVC-Course-Backend-B.csproj",
+              "RelativeToolTip": "BVC-Course-Backend-B\\BVC-Course-Backend-B.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T03:22:56.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

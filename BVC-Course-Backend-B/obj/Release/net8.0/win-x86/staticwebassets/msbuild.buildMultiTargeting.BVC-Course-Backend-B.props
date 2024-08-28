@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BVC-Course-Backend-B.props" />
+</Project>

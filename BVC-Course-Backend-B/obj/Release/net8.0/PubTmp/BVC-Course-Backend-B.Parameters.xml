@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BVC-Course-Backend-B20240810203249" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\melih\\OneDrive\\Desktop\\New\ folder\\BVC-Course-Backend-B-melih\\BVC-Course-Backend-B\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="BVC_Course_Backend_B.Data.DataContext" description="" value="Data Source=bvc-course-backend-bdbserver.database.windows.net,1433;Initial Catalog=BVC-Course-Backend-B_db;User ID=melih;Password=Arkhe3710$" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\melih\\OneDrive\\Desktop\\New\ folder\\BVC-Course-Backend-B-melih\\BVC-Course-Backend-B\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\BVC_Course_Backend_B\.Data\.DataContext\.sql$" />
+  </parameter>
+</parameters>
